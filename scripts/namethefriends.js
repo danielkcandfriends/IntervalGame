@@ -1,24 +1,20 @@
 var easyCards = [
   
-   'https://i.imgur.com/lp32Qtc.png',
-    'https://i.imgur.com/4W9vHQd.png',
-'    https://i.imgur.com/kJN8a32.png',
- '   https://i.imgur.com/TsgyhdH.png',
-  ' https://i.imgur.com/aiYhRPc.png',
-  '  https://i.imgur.com/tPGmRbG.png',
-   
-'   https://i.imgur.com/6Ph9xcI.png',
-'  https://i.imgur.com/WZsH6mp.png',
-    
-'https://i.imgur.com/ZGmED3Y.png',
-    
-  ' https://i.imgur.com/GEKmFtc.png',
- 
-  ' https://i.imgur.com/mvxNAnq.png',
- '   https://i.imgur.com/pOoVuqE.png',
-  '  https://i.imgur.com/Xv494aY.png',
-    
-  '  https://i.imgur.com/ASwA0ER.png',
+   'https://i.imgur.com/9jpYDwf.png',
+   'https://i.imgur.com/uFVMVYV.png',
+  '    https://i.imgur.com/7nYiraY.png',
+  '  https://i.imgur.com/0pgE9Lr.png',
+   ' https://i.imgur.com/E8fynDA.png',
+  '  https://i.imgur.com/SlBAOey.png',
+'   https://i.imgur.com/9YOGLvZ.png',
+  ' https://i.imgur.com/TmpDjZU.png',
+' https://i.imgur.com/FQdNUDS.png',
+ 'https://i.imgur.com/w62v9w5.png',
+'  https://i.imgur.com/1HcZTNO.png',
+ '  https://i.imgur.com/cCHgtmp.png',
+  '  https://i.imgur.com/r1lohfw.png',
+  
+  
 
     
   '  https://i.imgur.com/GPipCkC.png',
@@ -35,51 +31,22 @@ var easyCards = [
     ]
 var mediumCards = [
 
-   ' https://i.imgur.com/nLrrcCQ.png',
-    'https://i.imgur.com/GYZ2uiU.png',
-'  https://i.imgur.com/YckoZEf.png',
- '  https://i.imgur.com/wJw3K4i.png',
-  '  https://i.imgur.com/Lh6Pfu5.png',
-  ' https://i.imgur.com/Bripkqj.png',
-   
-'   https://i.imgur.com/CzgNbXR.png',
-'  https://i.imgur.com/HtrlHDL.png',
-    
-'https://i.imgur.com/giR11ng.png',
-    
-  ' https://i.imgur.com/hvPrBhK.png',
- 
-  ' https://i.imgur.com/arW9q3Y.png',
-
-
+   ' https://i.imgur.com/gdJWYOm.png',
+  'https://i.imgur.com/6eddGUm.png',
+ '  https://i.imgur.com/8V0Kilb.png',
+ ' https://i.imgur.com/NwzfL34.png',
   
-    
-
+  
+  
+  '  https://i.imgur.com/T4AGclt.png',
+  
     ]
 var easyMediumCards = easyCards.concat(mediumCards);
 var hardCards = [
-  ' https://i.imgur.com/bV4Ce4r.png',
-    ' https://i.imgur.com/MSa05BC.png',
-    'https://i.imgur.com/OWXGFs3.png',
-    ' https://i.imgur.com/W3M6rPU.png',
-    'https://i.imgur.com/QdgUvb9.png',
-  
-    ' https://i.imgur.com/5mBMTWM.png',
-    'https://i.imgur.com/wkuAJ3o.png',
-  
-    ' https://i.imgur.com/Va8AuAk.png',
-    ' https://i.imgur.com/4rgZknA.png',
-    ' https://i.imgur.com/1ifwdH8.png',
-      ' https://i.imgur.com/aI6dI26.png',
-      ' https://i.imgur.com/Mp8NEyS.png',
-      ' https://i.imgur.com/lQAYTDi.png',
-      'https://i.imgur.com/VDUceRZ.png',
-      ' https://i.imgur.com/TEPsm2c.png',
-      ' https://i.imgur.com/YeFMdIb.png',
-      ' https://i.imgur.com/Jxpr1kD.png',
-      ' https://i.imgur.com/nmpmxCR.png',
-      ' https://i.imgur.com/HzRXktm.png',
-  'https://i.imgur.com/sUyZuhv.png'
+  ' https://i.imgur.com/1uN6FjH.png',
+    ' https://i.imgur.com/Cq2qYvW.png',
+    'https://i.imgur.com/8hDfEkS.png',
+ ' https://i.imgur.com/jJMGEWk.png',
   
     ]
 var easyMediumHard = easyMediumCards.concat(hardCards);
