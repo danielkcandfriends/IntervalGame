@@ -1,0 +1,126 @@
+@font-face {
+    font-family: Bubble;
+    src: url('../fonts/bubble.otf');
+}
+@font-face {
+    font-family: Riffic;
+    src: url('../fonts/RifficFree-bold.ttf');
+}
+@font-face {
+    font-family: Cartoonist;
+    src: url('../fonts/cartoonist.ttf');
+}
+body, html {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background: url('../images/bg-tiled-yellow.png') fixed;
+    overflow: hidden;
+    font-family: Cartoonist;
+    font-size: 17px;
+    cursor: crosshair;
+    margin: 0;
+}
+h1 {
+    font: normal 40px Riffic;
+    line-height: 40px;
+    text-transform: uppercase;
+    margin: 10px 0px 15px;
+    letter-spacing: 3px;
+}
+h2, h3 {
+    font: bold 30px Cartoonist;
+    letter-spacing: 1px;
+    margin: 0;
+}
+h3 {
+    font-size: 20px;
+    text-transform: uppercase;
+}
+#cloud {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+div#title {
+    position: absolute;
+    top: -13%;
+    left: 0;
+    width: 100%;
+    height: 10%;
+}
+img#title {
+    height: 85%;
+}
+#title h1 {
+    text-align: center;
+}
+.pos_rel {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.drag {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -o-crisp-edges;
+  image-rendering: pixelated;
+  position: absolute;
+}
+.drag:hover {
+    cursor: grab;
+}
+.dragging {
+    cursor: grabbing !important;
+}
+.slider {
+    -webkit-appearance: none;
+    height: 5px;
+    border-radius: 5px;
+    background: #000;
+    outline: none;
+    opacity: 0.7;
+    transition: opacity .15s ease-in-out;
+}
+.slider:hover {
+    opacity: 1;
+}
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    background: #48BEAC;
+    cursor: pointer;
+    border-radius: 999px;
+    border: 1px solid #000;
+}
+.slider::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    background: #48BEAC;
+    cursor: pointer;
+    border-radius: 999px;
+}
+.diff {
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding: 1px 0px;
+    width: 70px;
+    border-radius: 999px;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+button#next_turn {
+    font-family: Cartoonist;
+    font-size: 20px;
+    opacity: 0;
+    transition: opacity 0.5s ease-out;
+}
+.fadein {
+    opacity: 1 !important;
+    transition: opacity 0.5s ease-in;
+}
