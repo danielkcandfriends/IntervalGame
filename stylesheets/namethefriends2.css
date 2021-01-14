@@ -124,8 +124,8 @@ hr {
     width: 100%;
 }
 #card_pull img {
-    width: 100%;
-    height: 100%;
+    width: auto;
+    height: 500px;
 }
 #questions {
     width: 300px;
