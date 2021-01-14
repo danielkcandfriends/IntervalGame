@@ -16,16 +16,6 @@ var easyCards = [
   
   
 
-    
-  '  https://i.imgur.com/GPipCkC.png',
-  ' https://i.imgur.com/pU72Rhx.png',
-   ' https://i.imgur.com/dSo7UWv.png',
-  '  https://i.imgur.com/L1qYAVd.png',
-  '  https://i.imgur.com/ivGR6DJ.png',
- '   https://i.imgur.com/FLJ31p1.png',
-  ' https://i.imgur.com/hnzpwAk.png',
-  '  https://i.imgur.com/Hxvzq5X.png',
-  '  https://i.imgur.com/QpsVTOt.png',
  
 
     ]
@@ -37,8 +27,6 @@ var mediumCards = [
  ' https://i.imgur.com/NwzfL34.png',
   
   
-  
-  '  https://i.imgur.com/T4AGclt.png',
   
     ]
 var easyMediumCards = easyCards.concat(mediumCards);
