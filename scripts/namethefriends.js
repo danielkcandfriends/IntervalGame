@@ -1,30 +1,88 @@
 var easyCards = [
   
-   'https://i.imgur.com/9jpYDwf.png',
-   'https://i.imgur.com/uFVMVYV.png',
-  '    https://i.imgur.com/7nYiraY.png',
-  '  https://i.imgur.com/0pgE9Lr.png',
-   ' https://i.imgur.com/E8fynDA.png',
-  '  https://i.imgur.com/SlBAOey.png',
-'   https://i.imgur.com/9YOGLvZ.png',
-  ' https://i.imgur.com/TmpDjZU.png',
-' https://i.imgur.com/FQdNUDS.png',
- 'https://i.imgur.com/w62v9w5.png',
-'  https://i.imgur.com/1HcZTNO.png',
- '  https://i.imgur.com/cCHgtmp.png',
-  '  https://i.imgur.com/r1lohfw.png',
+   'https://i.imgur.com/07sZRlF.png',
+   'https://i.imgur.com/W9WZamn.png',
+   '    https://i.imgur.com/rUgdvwe.png',
+  '  https://i.imgur.com/pbNa4bZ.png',
+   ' https://i.imgur.com/tP6376p.png',
+ '  https://i.imgur.com/FaVfFja.png',
   
   
+  
+'   https://i.imgur.com/ctQqcL5.png',
+  
+  ' https://i.imgur.com/VpnWgmN.png',
+  
+  
+'https://i.imgur.com/L0XVtai.png',
+   'https://i.imgur.com/WycyC4v.png',
+  '  https://i.imgur.com/CSo47os.png',
+  
+  
+ '  https://i.imgur.com/yiEAcYI.png',
+ 
+  ' https://i.imgur.com/GGoQPiS.png',
+  
+'  https://i.imgur.com/WzZ4HNP.png',
+  
+'  https://i.imgur.com/CTOSkpH.png',
+  'https://i.imgur.com/ztZsHan.png',
+  
+  'https://i.imgur.com/kedUrIX.png',
+  
+  'https://i.imgur.com/4TReYUU.png',
+  'https://i.imgur.com/yXUaWNA.png',
+  
+  'https://i.imgur.com/TIc3hfe.png',
+  'https://i.imgur.com/iWnRzlY.png',
+  'https://i.imgur.com/BHSsINI.png',
+  'https://i.imgur.com/qWkxxpX.png,
+  'https://i.imgur.com/onnWfz8.png',
+  'https://i.imgur.com/tNfxjGy.png',
+  'https://i.imgur.com/BBnJz34.png',
+'  https://i.imgur.com/xJhF8j7.png',
+  'https://i.imgur.com/Yu7tDIY.png',
+  'https://i.imgur.com/W0YjrG1.png',
+  
+  'https://i.imgur.com/cJpYXpA.png',
+  
+  'https://i.imgur.com/hYIQmXs.png',
+  
+  'https://i.imgur.com/plsFp22.png',
+  
+  'https://i.imgur.com/hwxKHzs.png',
 
  
 
     ]
 var mediumCards = [
 
-   ' https://i.imgur.com/gdJWYOm.png',
-  'https://i.imgur.com/6eddGUm.png',
- '  https://i.imgur.com/8V0Kilb.png',
- ' https://i.imgur.com/NwzfL34.png',
+   ' https://i.imgur.com/yiLjHfO.png',
+  
+  
+  'https://i.imgur.com/vPRHF3t.png',
+  
+  
+ ' https://i.imgur.com/BVtmoZo.png',
+  
+  
+ ' https://i.imgur.com/1d2qAhu.png',
+  
+ ' https://i.imgur.com/9D8A9bU.png',
+  
+'  https://i.imgur.com/eZlGHOF.png',
+  
+ ' https://i.imgur.com/v8md1b7.png',
+ ' https://i.imgur.com/jzaeB5J.png',
+ ' https://i.imgur.com/tlykFZ2.png',
+ ' https://i.imgur.com/XrxzayP.png',
+  'https://i.imgur.com/jQq3BgR.png',
+ 
+  'https://i.imgur.com/dj7tjg6.png',
+  'https://i.imgur.com/D7rXXe1.png',
+  'https://i.imgur.com/reQc6hC.png',
+  
+  'https://i.imgur.com/fVRFfuu.png',
   
   
   
