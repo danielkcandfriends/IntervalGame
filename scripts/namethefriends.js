@@ -36,7 +36,7 @@ var easyCards = [
   'https://i.imgur.com/TIc3hfe.png',
   'https://i.imgur.com/iWnRzlY.png',
   'https://i.imgur.com/BHSsINI.png',
-  'https://i.imgur.com/qWkxxpX.png,
+  'https://i.imgur.com/qWkxxpX.png',
   'https://i.imgur.com/onnWfz8.png',
   'https://i.imgur.com/tNfxjGy.png',
   'https://i.imgur.com/BBnJz34.png',
